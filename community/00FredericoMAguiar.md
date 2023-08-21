@@ -23,13 +23,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/frederico-aguiar-inter-luminis-systems)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FredOnBrasil&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FredOnBrasil&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Principais Projetos
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=FredOnBrasil&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FredOnBrasil/DesafioAeC_RPASeleniumCSharp)
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=FredOnBrasil&repo=DesktopAppContacts&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]https://github.com/FredOnBrasil/DesktopAppContacts)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=FredOnBrasil&repo=DesktopAppContacts&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FredOnBrasil/DesktopAppContacts)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=83Rafa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/FredOnBrasil/dio-lab-open-source)
 
